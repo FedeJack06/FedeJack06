@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FedeJack06
-- 👀 I’m interested in climatology, weather station and mountain
+- 👀 I’m interested in climatology, weather station and mountain environment
 - 🌱 I’m currently developing a Low Cost Weather Station with Arduino, sending data via radio or GSM
 - 📫 How to reach me fedejek06@gmail.com
 
